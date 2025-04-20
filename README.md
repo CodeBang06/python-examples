@@ -384,4 +384,4 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
+![春风微码](https://github.com/user-attachments/assets/665bb235-ea3d-430b-8f19-cfa91e26e560)
